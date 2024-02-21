@@ -1,6 +1,6 @@
 from pyrogram import Client,filters;from pyromod import listen;import time, asyncio
 
-bh = Client("fake", 20223538, "4984257087b565cc0b1dafc7be4d23c4")
+bh = Client("fake", 26284941, "86f4bf2c0dd822a78c32ea95243739ab")
 
 # للتجربة ارسل /add في المحفوظات.
 
